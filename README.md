@@ -28,7 +28,7 @@ None
 ## Technologies Used
 
 * Javascript
-* JSON
+* IntelliJ
 * HTML
 * CSS
 
